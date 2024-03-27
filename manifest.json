@@ -2,9 +2,6 @@
 	"name": "Eldritch",
 	"version": "1.0.0",
 	"minAppVersion": "0.16.0",
-	"repo": "eldritch-theme/eldritch-obsidian",
-	"screenshot": "eldritch.png",
-	"modes": ["dark"],
 	"author": "Eldritch",
 	"authorUrl": "https://github.com/eldritch-theme"
 }
